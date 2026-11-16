@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\bin\Debug\net8.0-windows\Bomba partlatma.exe
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\bin\Debug\net8.0-windows\Bomba partlatma.deps.json
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\bin\Debug\net8.0-windows\Bomba partlatma.runtimeconfig.json
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\bin\Debug\net8.0-windows\Bomba partlatma.dll
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\bin\Debug\net8.0-windows\Bomba partlatma.pdb
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba_partlatma.Form1.resources
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.AssemblyInfo.cs
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.dll
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\refint\Bomba partlatma.dll
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.pdb
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba partlatma.genruntimeconfig.cache
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\ref\Bomba partlatma.dll
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba pa.AFE377D1.Up2Date
+C:\Users\User\source\repos\Bomba partlatma\Bomba partlatma\obj\Debug\net8.0-windows\Bomba_partlatma.Properties.Resources.resources

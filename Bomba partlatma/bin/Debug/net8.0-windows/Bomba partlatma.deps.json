@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bomba partlatma/1.0.0": {
+        "runtime": {
+          "Bomba partlatma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bomba partlatma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
